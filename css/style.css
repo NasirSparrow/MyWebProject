@@ -1,0 +1,122 @@
+@font-face {
+    font-family: JosefinSans;
+    src: url(../fonts/JosefinSans-Italic.ttf);
+}
+.menu {
+    background-color: #5F5F5F;
+}
+
+.menu ul {
+    list-style: none;
+    overflow: hidden;
+    padding: 2px;
+    margin-left: 100px;
+}
+
+.menu ul li {
+    float: left;
+    padding: 25px;
+}
+.menu ul li a {
+    color: #f1f1f1;
+    font-size: 20px;
+    text-decoration: none;
+    overflow: hidden;
+    font-family: JosefinSans;
+}
+
+#logo a {
+    padding: 16px;
+}
+body{
+    background-color:blanchedalmond;
+}
+.iteam1{
+    float: left;
+    height: 700;
+    width: 475;
+}
+.ipspec{
+    height: 300px; width: 400px;overflow: auto;
+}
+.ipspec li {
+    text-decoration: none;
+    list-style: disc;
+    margin-top: 10px;
+    font-family: JosefinSans;
+}
+.iteam2{
+    float: left;
+    height: 700;
+    width: 450;
+    margin-left: 25px;
+}
+.s9spec{
+    height: 300px; width: 400px;overflow: auto;
+}
+.s9spec li {
+    text-decoration: none;
+    list-style: disc;
+    margin-top: 10px;
+    font-family: JosefinSans;
+}
+.iteam3{
+    float: left;
+    height: 700;
+    width: 450;
+    margin-left: 25px;
+}
+.g7tspec{
+    height: 300px; width: 400px;overflow: auto;
+}
+.g7tspec li {
+    text-decoration: none;
+    list-style: disc;
+    margin-top: 10px;
+    font-family: JosefinSans;
+}
+.iteam4{
+   
+    float: left;
+    height: 700;
+    width: 450;
+}
+.op5tspec{
+    height: 300px; width: 400px;overflow: auto;
+}
+.op5tspec li {
+    text-decoration: none;
+    list-style: disc;
+    margin-top: 10px;
+    font-family: JosefinSans;
+}
+.iteam5{
+    float: left;
+    height: 700;
+    width: 450;
+    margin-left: 25px;
+}
+.gp2spec{
+    height: 300px; width: 400px;overflow: auto;
+}
+.gp2spec li {
+    text-decoration: none;
+    list-style: disc;
+    margin-top: 10px;
+    font-family: JosefinSans;
+}
+.iteam6{
+    float: left;
+    height: 700;
+    width: 450;
+    margin-left: 25px;
+}
+.hp20pspec{
+    height: 300px; width: 400px;overflow: auto;
+}
+.hp20pspec li {
+    text-decoration: none;
+    list-style: disc;
+    margin-top: 10px;
+    font-family: JosefinSans;
+}
